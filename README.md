@@ -3,13 +3,13 @@
 
 - 🔭 I’m currently working on **ILMS**
 
-- 🌱 I’m currently learning **Chakra UI,AWS ,NODE JS**
+- 🌱 I’m currently learning **AWS ,Vector databases,Langchain**
 
 - 👯 I’m looking to collaborate on **Web projects**
 
-- 🤝 I’m looking for help with **Front-Development**
+- 🤝 I’m looking for help with **Full-Stack-Development**
 
-- 💬 Ask me about **React , Tailwind css**
+- 💬 Ask me about **Nextjs ,React , Tailwind css**
 
 - ⚡ Fun fact **I am actually funnny**
 
