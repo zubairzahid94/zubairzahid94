@@ -19,7 +19,7 @@
 </p>
 https://github-profile-trophy.vercel.app/?username=zubairzahid94
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=zubairzahid94=ryo-ma&column=8&rank=SSS,SS,S,AAA,AA,A,B,C" />
+  <img src="https://github-profile-trophy.vercel.app/?username=zubairzahid94=8&rank=SSS,SS,S,AAA,AA,A,B,C" />
 </p>
 
 
